@@ -1,7 +1,7 @@
 const collectionInfo = {
-    name: "Secret Alpha Labs",
+    name: "TrippinTigersNFT",
     title: "{name}",
-    date: "28.06.2022",
+    date: "30.06.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
@@ -12,17 +12,17 @@ const collectionInfo = {
     },
     background: {
         type: "image",
-        image: "bg.png",
+        image: "bg.jpg",
         video: "",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 1.9,
-    totalSupply: 6969,
+    price: 1.5,
+    totalSupply: 999,
     toFixed: 1,
     minUnits: 1,
-    maxUnits: 3,
+    maxUnits: 1,
     askMintLoop: true,
 }
 
