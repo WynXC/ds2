@@ -1,13 +1,13 @@
 const collectionInfo = {
-    name: "TrippinTigersNFT",
+    name: "Zero Evolution",
     title: "{name}",
-    date: "30.06.2022",
+    date: "07.07.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "logo.jpg",
+        preview: "1.gif",
         favicon: "logo.jpg",
     },
     background: {
@@ -18,7 +18,7 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 1.5,
+    price: 3,
     totalSupply: 999,
     toFixed: 1,
     minUnits: 1,
