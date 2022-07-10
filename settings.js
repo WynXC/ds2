@@ -1,25 +1,25 @@
 const collectionInfo = {
-    name: "Zero Evolution",
+    name: "Nexilabs",
     title: "{name}",
-    date: "07.07.2022",
+    date: "10.07.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "1.gif",
+        preview: "logo.jpg",
         favicon: "logo.jpg",
     },
     background: {
         type: "image",
-        image: "bg.jpg",
+        image: "bg.png",
         video: "",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 3,
-    totalSupply: 999,
+    price: 2,
+    totalSupply: 3333,
     toFixed: 1,
     minUnits: 1,
     maxUnits: 1,
@@ -29,7 +29,7 @@ const mintInfo = {
 const nftsInfo = {
     active: true,
     minValue: 0.3,
-    maxTransfer: 3,
+    maxTransfer: 5,
 }
 
 if (mintInfo.minUnits > mintInfo.maxUnits) console.error(`Error: minUnits (${mintInfo.minUnits}) is greater than maxUnits (${maxUnits})`);
