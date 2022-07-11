@@ -1,26 +1,26 @@
 const collectionInfo = {
-    name: "Nexilabs",
+    name: "Fabulosa",
     title: "{name}",
-    date: "10.07.2022",
+    date: "11.07.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "logo.jpg",
+        preview: "1.gif",
         favicon: "logo.jpg",
     },
     background: {
-        type: "image",
-        image: "bg.png",
-        video: "",
+        type: "video",
+        image: "",
+        video: "1.mp4",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 2,
+    price: 1.99,
     totalSupply: 3333,
-    toFixed: 1,
+    toFixed: 2,
     minUnits: 1,
     maxUnits: 1,
     askMintLoop: true,
