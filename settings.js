@@ -1,7 +1,7 @@
 const collectionInfo = {
-    name: "Fabulosa",
+    name: "Mad Bears",
     title: "{name}",
-    date: "11.07.2022",
+    date: "17.07.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
@@ -18,9 +18,9 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 1.99,
-    totalSupply: 3333,
-    toFixed: 2,
+    price: 1,
+    totalSupply: 1000,
+    toFixed: 1,
     minUnits: 1,
     maxUnits: 1,
     askMintLoop: true,
