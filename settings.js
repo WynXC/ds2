@@ -1,5 +1,5 @@
 const collectionInfo = {
-    name: "Mad Bears",
+    name: "TheAndroidX",
     title: "{name}",
     date: "17.07.2022",
     socialMedia: {
@@ -11,14 +11,14 @@ const collectionInfo = {
         favicon: "logo.jpg",
     },
     background: {
-        type: "video",
-        image: "",
-        video: "1.mp4",
+        type: "image",
+        image: "2.gif",
+        video: "",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 1,
+    price: 3,
     totalSupply: 1000,
     toFixed: 1,
     minUnits: 1,
