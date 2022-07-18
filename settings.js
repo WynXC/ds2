@@ -1,25 +1,25 @@
 const collectionInfo = {
-    name: "TheAndroidX",
+    name: "AGoD",
     title: "{name}",
-    date: "17.07.2022",
+    date: "19.07.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "1.gif",
+        preview: "logo.jpg",
         favicon: "logo.jpg",
     },
     background: {
         type: "image",
-        image: "2.gif",
+        image: "bg.jpg",
         video: "",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
     price: 3,
-    totalSupply: 1000,
+    totalSupply: 2000,
     toFixed: 1,
     minUnits: 1,
     maxUnits: 1,
