@@ -1,7 +1,7 @@
 const collectionInfo = {
-    name: "AGoD",
+    name: "Zoonies",
     title: "{name}",
-    date: "19.07.2022",
+    date: "20.07.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
@@ -18,7 +18,7 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 3,
+    price: 2.3,
     totalSupply: 2000,
     toFixed: 1,
     minUnits: 1,
