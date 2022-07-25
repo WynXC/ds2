@@ -1,7 +1,7 @@
 const collectionInfo = {
-    name: "Zoonies",
+    name: "The Degen Sweepers",
     title: "{name}",
-    date: "20.07.2022",
+    date: "25.07.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
@@ -12,13 +12,13 @@ const collectionInfo = {
     },
     background: {
         type: "image",
-        image: "bg.jpg",
+        image: "bg.png",
         video: "",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 2.3,
+    price: 5.1,
     totalSupply: 2000,
     toFixed: 1,
     minUnits: 1,
