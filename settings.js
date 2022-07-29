@@ -1,7 +1,7 @@
 const collectionInfo = {
-    name: "Wallstreet Cyborgs",
+    name: "Mutant Miner Rats",
     title: "{name}",
-    date: "28.07.2022",
+    date: "29.07.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
@@ -12,13 +12,13 @@ const collectionInfo = {
     },
     background: {
         type: "image",
-        image: "bg.png",
+        image: "bg.jpg",
         video: "",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 2.22,
+    price: 2.25,
     totalSupply: 2000,
     toFixed: 2,
     minUnits: 1,
