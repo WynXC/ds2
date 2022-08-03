@@ -1,7 +1,7 @@
 const collectionInfo = {
-    name: "Mutant Miner Rats",
+    name: "Crazy Catz",
     title: "{name}",
-    date: "29.07.2022",
+    date: "03.08.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
@@ -18,11 +18,11 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 2.25,
+    price: 1.5,
     totalSupply: 2000,
     toFixed: 2,
     minUnits: 1,
-    maxUnits: 3,
+    maxUnits: 2,
     askMintLoop: true,
 }
 
