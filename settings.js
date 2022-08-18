@@ -1,7 +1,7 @@
 const collectionInfo = {
-    name: "The Flipside Metaverse",
+    name: "Sentries",
     title: "{name}",
-    date: "11.08.2022",
+    date: "18.08.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
@@ -11,16 +11,16 @@ const collectionInfo = {
         favicon: "logo.jpg",
     },
     background: {
-        type: "video",
-        image: "",
-        video: "1.mp4",
+        type: "image",
+        image: "bg.png",
+        video: "",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 0.99,
+    price: 1,
     totalSupply: 1000,
-    toFixed: 2,
+    toFixed: 1,
     minUnits: 1,
     maxUnits: 2,
     askMintLoop: true,
