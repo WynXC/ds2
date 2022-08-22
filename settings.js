@@ -1,7 +1,7 @@
 const collectionInfo = {
-    name: "Sentries",
+    name: "Rude Renegades",
     title: "{name}",
-    date: "18.08.2022",
+    date: "25.08.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
@@ -12,15 +12,15 @@ const collectionInfo = {
     },
     background: {
         type: "image",
-        image: "bg.png",
+        image: "bg.jpg",
         video: "",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 1,
+    price: 0.79,
     totalSupply: 1000,
-    toFixed: 1,
+    toFixed: 2,
     minUnits: 1,
     maxUnits: 2,
     askMintLoop: true,
