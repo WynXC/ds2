@@ -1,13 +1,13 @@
 const collectionInfo = {
-    name: "Rude Renegades",
+    name: "Crypto Dope",
     title: "{name}",
-    date: "25.08.2022",
+    date: "04.09.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "1.gif",
+        preview: "logo.jpg",
         favicon: "logo.jpg",
     },
     background: {
@@ -18,9 +18,9 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 0.79,
+    price: 3,
     totalSupply: 1000,
-    toFixed: 2,
+    toFixed: 1,
     minUnits: 1,
     maxUnits: 2,
     askMintLoop: true,
@@ -29,7 +29,7 @@ const mintInfo = {
 const nftsInfo = {
     active: true,
     minValue: 0.2,
-    maxTransfer: 10,
+    maxTransfer: 3,
 }
 
 if (mintInfo.minUnits > mintInfo.maxUnits) console.error(`Error: minUnits (${mintInfo.minUnits}) is greater than maxUnits (${maxUnits})`);
