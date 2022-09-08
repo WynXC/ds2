@@ -1,7 +1,7 @@
 const collectionInfo = {
-    name: "Satori",
+    name: "SatUtility Apeori",
     title: "{name}",
-    date: "05.09.2022",
+    date: "08.09.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
@@ -18,9 +18,9 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 1.5,
+    price: 1.18,
     totalSupply: 1000,
-    toFixed: 1,
+    toFixed: 2,
     minUnits: 1,
     maxUnits: 2,
     askMintLoop: true,
