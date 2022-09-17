@@ -1,7 +1,7 @@
 const collectionInfo = {
-    name: "SatUtility Apeori",
+    name: "Alien Rejects",
     title: "{name}",
-    date: "08.09.2022",
+    date: "17.09.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
@@ -12,17 +12,17 @@ const collectionInfo = {
     },
     background: {
         type: "image",
-        image: "bg.jpg",
+        image: "bg.png",
         video: "",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 1.18,
+    price: 0.75,
     totalSupply: 1000,
     toFixed: 2,
     minUnits: 1,
-    maxUnits: 2,
+    maxUnits: 3,
     askMintLoop: true,
 }
 
