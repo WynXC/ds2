@@ -1,7 +1,7 @@
 const collectionInfo = {
-    name: "Alien Rejects",
+    name: "The Sports Club",
     title: "{name}",
-    date: "17.09.2022",
+    date: "23.09.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
@@ -12,15 +12,15 @@ const collectionInfo = {
     },
     background: {
         type: "image",
-        image: "bg.png",
+        image: "bg.jpg",
         video: "",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 0.75,
+    price: 1.3,
     totalSupply: 1000,
-    toFixed: 2,
+    toFixed: 1,
     minUnits: 1,
     maxUnits: 3,
     askMintLoop: true,
