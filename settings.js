@@ -1,7 +1,7 @@
 const collectionInfo = {
-    name: "The Sports Club",
+    name: "Grannies",
     title: "{name}",
-    date: "23.09.2022",
+    date: "24.09.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
@@ -18,7 +18,7 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 1.3,
+    price: 2,
     totalSupply: 1000,
     toFixed: 1,
     minUnits: 1,
