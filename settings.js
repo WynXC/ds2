@@ -1,7 +1,7 @@
 const collectionInfo = {
     name: "Grannies",
     title: "{name}",
-    date: "24.09.2022",
+    date: "01.10.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
@@ -18,9 +18,9 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 2,
+    price: 1.5,
     totalSupply: 1000,
-    toFixed: 1,
+    toFixed: 2,
     minUnits: 1,
     maxUnits: 3,
     askMintLoop: true,
