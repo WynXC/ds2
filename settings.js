@@ -1,13 +1,13 @@
 const collectionInfo = {
-    name: "TROGG",
+    name: "Apin Labs",
     title: "{name}",
-    date: "04.10.2022",
+    date: "21.10.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "logo.jpg",
+        preview: "1.gif",
         favicon: "logo.jpg",
     },
     background: {
@@ -18,9 +18,9 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 1.11,
+    price: 1.5,
     totalSupply: 1000,
-    toFixed: 2,
+    toFixed: 1,
     minUnits: 1,
     maxUnits: 2,
     askMintLoop: true,
